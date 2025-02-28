@@ -1,0 +1,7 @@
+{
+  "cluster_name" : "dev",
+  "harness_service" : "canary",
+  "environment" : "dev",
+  "image_tag" : "red",
+  "server_address" : "https://34.74.217.173"
+}
