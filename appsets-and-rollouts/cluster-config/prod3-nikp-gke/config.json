@@ -1,0 +1,7 @@
+{
+  "cluster_name" : "prod3",
+  "harness_service" : "gitopsrolloutscanary",
+  "environment" : "prod3-gitops",
+  "image_tag" : "red",
+  "server_address" : "https://34.68.160.227"
+}

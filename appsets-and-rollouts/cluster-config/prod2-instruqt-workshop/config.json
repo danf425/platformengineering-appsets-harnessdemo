@@ -1,6 +1,6 @@
 {
-  "cluster_name" : "prod2-instruqt-workshop",
-  "harness_service" : "canary",
+  "cluster_name" : "prod2",
+  "harness_service" : "gitopsrolloutscanary",
   "environment" : "prod2-gitops",
   "image_tag" : "red",
   "server_address" : "https://34.74.217.173"
