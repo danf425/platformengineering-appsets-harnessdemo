@@ -2,6 +2,6 @@
   "cluster_name" : "prod1",
   "harness_service" : "gitopsrolloutscanary",
   "environment" : "prod1-gitops",
-  "image_tag" : "v1-red",
+  "image_tag" : "orange",
   "server_address" : "https://35.231.43.35"
 }
