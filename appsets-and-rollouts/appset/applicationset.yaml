@@ -8,7 +8,7 @@ spec:
       repoURL: https://github.com/danf425/platformengineering-appsets-harnessdemo.git
       revision: HEAD
       files:
-      - path: "appsets-and-rollouts/cluster-config/**/config.json"
+      - path: "appsets-and-rollouts/cluster-config/*/config.json"
   template:
     metadata:
       name: '{{cluster_name}}-canary'
