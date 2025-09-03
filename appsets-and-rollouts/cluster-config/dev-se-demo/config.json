@@ -2,6 +2,6 @@
   "cluster_name" : "dev",
   "harness_service" : "gitopsrolloutscanary",
   "environment" : "devgitops",
-  "image_tag" : "yellow",
+  "image_tag" : "v1-red",
   "server_address" : "https://kubernetes.default.svc"
 }
