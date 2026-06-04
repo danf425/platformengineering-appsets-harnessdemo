@@ -1,0 +1,8 @@
+{
+  "harness_service": "gitopsrolloutscanary",
+  "environment": "org.qa",
+  "replicaCount": "1",
+  "deploy_file": "kustomization.yaml",
+  "image_tag": "yellow",
+  "repo_env_path": "qa"
+}
