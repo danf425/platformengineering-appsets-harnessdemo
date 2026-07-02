@@ -3,6 +3,6 @@
   "environment" : "org.preprod",
   "replicaCount" : "1",
   "deploy_file" : "kustomization.yaml",
-  "image_tag" : "bad-yellow",
+  "image_tag" : "yellow",
   "repo_env_path" : "preprod"
 }
